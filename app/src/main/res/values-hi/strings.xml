@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">भाषांतर </string>
+
+    <string name="text_title">नमस्कार मी अँड्रॉइड आहे </string>
+    <string name="btn_english">इंग्लिश</string>
+    <string name="btn_marathi">मराठी</string>
+</resources>

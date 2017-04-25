@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Localization</string>
+
+    <string name="text_title">Hello i am android</string>
+    <string name="btn_english">English</string>
+    <string name="btn_marathi">मराठी </string>
+</resources>
