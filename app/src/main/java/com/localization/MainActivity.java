@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         getSupportActionBar().setTitle(R.string.app_name);
 
+        //Change language to Marathi
         mBtnMarathi.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -47,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        //Change language to english
         mBtnEnglish.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
